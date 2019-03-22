@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/news_settings"
+    >
+    <ListPreference
+        android:defaultValue="@string/business_section_value"
+        android:entries="@array/settings_section_labels"
+        android:entryValues="@array/settings_section_values"
+        android:key="@string/section_key"
+        android:title="@string/settings_section" />
+
+    <ListPreference
+        android:defaultValue="@string/article_type_value"
+        android:entries="@array/settings_type_labels"
+        android:entryValues="@array/settings_type_values"
+        android:key="@string/type_key"
+        android:title="@string/settings_type"
+        />
+
+
+</PreferenceScreen>

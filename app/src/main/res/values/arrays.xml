@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_labels">
+        <item>@string/settings_default</item>
+        <item>@string/australia_news_section_label</item>
+        <item>@string/business_section_label</item>
+        <item>@string/education_section_label</item>
+        <item>@string/film_section_label</item>
+        <item>@string/football_section_label</item>
+        <item>@string/media_section_label</item>
+        <item>@string/opinion_section_label</item>
+        <item>@string/politics_section_label</item>
+        <item>@string/science_section_label</item>
+        <item>@string/society_section_label</item>
+        <item>@string/sport_section_label</item>
+        <item>@string/technology_section_label</item>
+        <item>@string/uk_news_section_label</item>
+        <item>@string/us_news_section_label</item>
+        <item>@string/world_news_section_label</item>
+    </string-array>
+    <string-array name="settings_section_values">
+        <item>@string/settings_default_value</item>
+        <item>@string/australia_news_section_value</item>
+        <item>@string/business_section_value</item>
+        <item>@string/education_section_value</item>
+        <item>@string/film_section_value</item>
+        <item>@string/football_section_value</item>
+        <item>@string/media_section_value</item>
+        <item>@string/opinion_section_value</item>
+        <item>@string/politics_section_value</item>
+        <item>@string/science_section_value</item>
+        <item>@string/society_section_value</item>
+        <item>@string/sport_section_value</item>
+        <item>@string/technology_section_value</item>
+        <item>@string/uk_news_section_value</item>
+        <item>@string/us_news_section_value</item>
+        <item>@string/world_news_section_value</item>
+    </string-array>
+    <string-array name="settings_type_labels">
+        <item>@string/settings_default</item>
+        <item>@string/article_type_label</item>
+        <item>@string/liveblog_type_label</item>
+    </string-array>
+    <string-array name="settings_type_values">
+        <item>@string/settings_default_value</item>
+        <item>@string/article_type_value</item>
+        <item>@string/liveblog_type_value</item>
+    </string-array>
+</resources>
